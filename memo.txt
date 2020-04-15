@@ -1,0 +1,13 @@
+使う技術
+
+docker docker-compose: 環境構築
+
+react
+  typescript
+  hooks
+css:
+  material-ui
+
+typescriptのコードを成形したり、間違っているところを直したりするもの
+eslint
+printtier
